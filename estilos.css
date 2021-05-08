@@ -1,0 +1,7 @@
+*{
+    background-image:url(Fondo.png)
+}
+body p{
+    margin: 15px;
+    padding: 10px;
+}
